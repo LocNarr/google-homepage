@@ -1,0 +1,82 @@
+body{
+ width:1900px;
+ height:620px;
+}
+
+ul{
+ list-style-type:none;
+ display:inline-flex;
+ flex-direction:row;
+ justify-content:space-around;
+ font-size:12px;
+}
+
+ul li{
+ padding:10px;
+
+}
+
+.sign{
+ background-color:green;
+ color:white;
+}
+
+.search{
+ border:none;
+ height:40px;
+ width:120px;
+}
+
+.lucky{
+ border:none;
+  height:40px;
+  width:120px;
+}
+
+#navuno{
+ float:left;
+ width:5%;
+
+}
+
+#navdos{
+ float:right;
+ 
+}
+
+#navtres{
+ float:left;
+
+}
+
+#navcuatro{
+ float:right;
+  
+}
+
+main{
+ width:1900px;
+ padding-top:200px;
+ text-align:center;
+ height:370px;
+ 
+}
+
+form{
+ padding-top:20px;
+}
+
+#text{
+ padding-top:20px;
+ border-radius:15px;
+}
+
+
+
+footer{
+ background-color:#d3d3d3;
+ height:90px;
+ margin:170px 0 0 0;
+ 
+}
+
